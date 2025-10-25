@@ -33,17 +33,22 @@ Founder of <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/hea
 - <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="25"> [Discord Profile](https://discord.com/users/831735011588964392)  
 - <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="25"> [Coalwix Website](https://coalwixpack.com)
 
-**My Discord Servers:**  
+###   <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="25"> My Discord Servers:   
 - <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/Octapussie%20PFP%20GIF.gif" width="25"> [Octapussie](https://discord.gg/GZUnX6UHyT)  
 - <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="25"> [CoaLwiX](https://discord.gg/J6jWpru9nS)
 
 ---
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/kXUmy8A_v5oAAAAd/grim-reaper-reaper.gif" width="500">
-</p>
-
----
-
 ### <img src="https://media.tenor.com/YdkkdXsD8QYAAAAj/space-animated-sphere.gif" width="40"> GitHub Stats  
+
+<div style="display:flex; align-items:center; justify-content:center; gap:30px;">
+
+<div>
+  
 ![Landon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=landnthrn&show_icons=true&theme=radical)
+
+</div>
+
+<img src="https://media1.tenor.com/m/kXUmy8A_v5oAAAAd/grim-reaper-reaper.gif" width="260" style="border-radius:10px;"/>
+
+</div>
