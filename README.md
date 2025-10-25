@@ -39,5 +39,11 @@ Founder of <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/hea
 
 ---
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/kXUmy8A_v5oAAAAd/grim-reaper-reaper.gif" width="500">
+</p>
+
+---
+
 ### <img src="https://media.tenor.com/YdkkdXsD8QYAAAAj/space-animated-sphere.gif" width="40"> GitHub Stats  
 ![Landon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=landnthrn&show_icons=true&theme=radical)
