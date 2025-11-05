@@ -19,7 +19,7 @@ Founder of <a href="https://coalwixpack.com">Coalwix Pack</a> <img src="https://
 > I really enjoy getting deep into all sorts of techy nic nacs. I stumble by random project ideas and then eagerly dive deep into them.  
 > Also enjoy building improvements/add ons to other people's projects.  
 > I love to make ideas come to life, and I never publish anything until I know it's polished as one could get it.  
-> Guess I am a chronic perfectionist haha.  
+> A chronic perfectionist.  
 > Additionally, I'm a profressional video editor & filmmaker.  
 > Also own a couple well loved Discord Servers.  
 > In all my endeavors I've enjoyed staying as one man team.
