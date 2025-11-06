@@ -6,8 +6,8 @@ Co-Founder of <a href="https://mysticonnect.com">MystiConnect</a> <img src="http
 Founder of <a href="https://coalwixpack.com">Coalwix Pack</a> <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="30">
 </em></p>
 
-[![GitHub: landnthrn](https://img.shields.io/github/followers/landnthrn?label=Follow&style=social)](https://github.com/landnthrn)  
-[![Repo's](https://img.shields.io/badge/Find%20More%20of%20my%20Creations%20on%20GitHub-311A82?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landnthrn?tab=repositories)  
+[![Follow Me <3](https://img.shields.io/badge/Follow%20Me%20%3C3-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landnthrn)  
+[![Repo's](https://img.shields.io/badge/Repo's-311A82?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landnthrn?tab=repositories)  
 [![Gists: landnthrn](https://img.shields.io/badge/Gists-311A82?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/landnthrn)  
 [![Discord: landn.thrn](https://img.shields.io/badge/Discord-311A82?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/831735011588964392)  
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-311A82?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/landn.thrn/extras)  
