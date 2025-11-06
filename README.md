@@ -7,10 +7,11 @@ Founder of <a href="https://coalwixpack.com">Coalwix Pack</a> <img src="https://
 </em></p>
 
 [![GitHub: landnthrn](https://img.shields.io/github/followers/landnthrn?label=Follow&style=social)](https://github.com/landnthrn)  
-[![Gists: landnthrn](https://img.shields.io/badge/Gists-blue?logo=github&style=flat-square&link=https://gist.github.com/landnthrn)](https://gist.github.com/landnthrn)  
-[![Discord: landn.thrn](https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/831735011588964392)  
-[![BuyMeACoffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=flat-square)](https://buymeacoffee.com/landn.thrn/extras)  
-[![PayPal](https://img.shields.io/badge/🌊-PayPal-blue?style=flat-square)](https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C)
+[![Repo's](https://img.shields.io/badge/Find%20More%20of%20my%20Creations%20on%20GitHub-311A82?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landnthrn?tab=repositories)  
+[![Gists: landnthrn](https://img.shields.io/badge/Gists-311A82?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/landnthrn)  
+[![Discord: landn.thrn](https://img.shields.io/badge/Discord-311A82?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/831735011588964392)  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-311A82?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/landn.thrn/extras)  
+[![PayPal](https://img.shields.io/badge/PayPal-311A82?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C)
 
 ---
 
