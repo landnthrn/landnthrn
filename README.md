@@ -38,7 +38,9 @@
 - <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="20"> [Discord Profile](https://discord.com/users/831735011588964392)  
 - <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="20"> [CoaLwiX Website](https://coalwixpack.com)
 
-###   <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="25"> My Discord Servers:   
+---
+
+###   <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="50"> My Discord Servers:   
 ## <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/Octapussie%20PFP%20GIF.gif" width="60"> [Octapussie](https://discord.gg/GZUnX6UHyT)  
 ## <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="60"> [CoaLwiX](https://discord.gg/J6jWpru9nS)
 
