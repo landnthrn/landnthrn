@@ -1,7 +1,7 @@
-<h2><img src="https://media.tenor.com/WMlKIY9S5mQAAAAj/aurora-shadow.gif" width="50"> Wazzzzuup, landn.thrn here. </h2>
+## <img src="https://media.tenor.com/WMlKIY9S5mQAAAAj/aurora-shadow.gif" width="50"> landn.thrn here. 
 <img align='right' src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/Updated%20Rim%20PFP%202.gif" width="180">
 
-<p><em>Techy nic nacker </em> <img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="30"></p>
+<img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="20">Techy nic nacker<img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="20">
 
 ### Co-Founder of [MystiConnect](https://mysticonnect.com)  
 ### Creator of [CoaLwiX](https://coalwixpack.com)  
