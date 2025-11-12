@@ -1,10 +1,10 @@
 <h2><img src="https://media.tenor.com/WMlKIY9S5mQAAAAj/aurora-shadow.gif" width="50"> Wazzzzuup, landn.thrn here. </h2>
-<img align='right' src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/Updated%20Rim%20PFP%202.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/Updated%20Rim%20PFP%202.gif" width="180">
 
 <p><em>Techy nic nacker </em> <img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="30"></p>
 
 ### Co-Founder of [MystiConnect](https://mysticonnect.com)  
-### Founder of [CoaLwiX](https://coalwixpack.com)  
+### Creator of [CoaLwiX](https://coalwixpack.com)  
 
 
 [![Follow Me <3](https://img.shields.io/badge/Follow%20Me%20%3C3-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landnthrn)  
@@ -35,12 +35,12 @@
 - 🛠️ [GitHub Repositories](https://github.com/landnthrn?tab=repositories)  
 - 🧩 [GitHub Gists](https://gist.github.com/landnthrn)  
 - ☕ [Buy Me a Coffee](https://buymeacoffee.com/landn.thrn/extras)  
-- <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="25"> [Discord Profile](https://discord.com/users/831735011588964392)  
-- <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="25"> [Coalwix Website](https://coalwixpack.com)
+- <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="20"> [Discord Profile](https://discord.com/users/831735011588964392)  
+- <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="20"> [CoaLwiX Website](https://coalwixpack.com)
 
 ###   <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="25"> My Discord Servers:   
-## - <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/Octapussie%20PFP%20GIF.gif" width="60"> [Octapussie](https://discord.gg/GZUnX6UHyT)  
-## - <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="60"> [CoaLwiX](https://discord.gg/J6jWpru9nS)
+## <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/Octapussie%20PFP%20GIF.gif" width="60"> [Octapussie](https://discord.gg/GZUnX6UHyT)  
+## <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="60"> [CoaLwiX](https://discord.gg/J6jWpru9nS)
 
 ---
 
