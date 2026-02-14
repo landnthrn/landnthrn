@@ -48,6 +48,6 @@
 
 </div>
 
-<img src="https://media1.tenor.com/m/wyREFdKi4owAAAAd/planet.gif" width="260" style="border-radius:10px;"/><img src="https://media1.tenor.com/m/kXUmy8A_v5oAAAAd/grim-reaper-reaper.gif" width="260" style="border-radius:10px;"/><img src="https://media1.tenor.com/m/whCI7Cv4MFkAAAAd/dead.gif" width="360" style="border-radius:10px;"/>
+<img src="https://media1.tenor.com/m/wyREFdKi4owAAAAd/planet.gif" width="260" style="border-radius:10px;"/><img src="https://media1.tenor.com/m/kXUmy8A_v5oAAAAd/grim-reaper-reaper.gif" width="260" style="border-radius:10px;"/><img src="https://media1.tenor.com/m/whCI7Cv4MFkAAAAd/dead.gif" width="260" style="border-radius:10px;"/>
 
 </div>
