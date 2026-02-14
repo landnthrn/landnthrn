@@ -26,7 +26,7 @@
 
 >Just the universe experiencing itself through life, this one is very strange.
 
-<img src="https://media1.tenor.com/m/k_pGBNzmUFQAAAAC/aesthetic-rain.gif" width="420">
+<img src="https://i.imgur.com/0zIjtC6.gif" width="420"><img src="https://media1.tenor.com/m/k_pGBNzmUFQAAAAC/aesthetic-rain.gif" width="420">
 
 ---
 
@@ -40,7 +40,7 @@
 
 --- 
 
-###   <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="50"> My Discord Servers:   
+### <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="50"> My Discord Servers:   
 ## <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/Octapussie%20PFP%20GIF.gif" width="60"> [Octapussie](https://discord.gg/GZUnX6UHyT)  
 ## <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="60"> [CoaLwiX](https://discord.gg/J6jWpru9nS)
 
@@ -48,6 +48,6 @@
 
 </div>
 
-<img src="https://media1.tenor.com/m/kXUmy8A_v5oAAAAd/grim-reaper-reaper.gif" width="260" style="border-radius:10px;"/>
+<img src="https://media1.tenor.com/m/wyREFdKi4owAAAAd/planet.gif" width="260" style="border-radius:10px;"/><img src="https://media1.tenor.com/m/kXUmy8A_v5oAAAAd/grim-reaper-reaper.gif" width="260" style="border-radius:10px;"/><img src="https://media1.tenor.com/m/whCI7Cv4MFkAAAAd/dead.gif" width="360" style="border-radius:10px;"/>
 
 </div>
