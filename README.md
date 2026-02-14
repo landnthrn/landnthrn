@@ -16,7 +16,7 @@
 
 ---
 
-### <img src="https://media.tenor.com/xxBBb5X4UtgAAAAj/skull-spin.gif" width="50"> A little about me...  
+### <img src="https://media.tenor.com/xxBBb5X4UtgAAAAj/skull-spin.gif" width="50">
 
 >Mind lives on a planet that downpours blue violet rain & thunder.
 
@@ -32,27 +32,19 @@
 
 ### <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/PurpleMoon.gif" width="50"> Link Pool
 
-- 🛠️ [GitHub Repositories](https://github.com/landnthrn?tab=repositories)  
-- 🧩 [GitHub Gists](https://gist.github.com/landnthrn)  
-- ☕ [Buy Me a Coffee](https://buymeacoffee.com/landn.thrn/extras)  
-- <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="20"> [Discord Profile](https://discord.com/users/831735011588964392)  
-- <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="20"> [CoaLwiX Website](https://coalwixpack.com)
+- <img src="https://media1.tenor.com/m/4kbza7bTuTcAAAAd/purple-flames.gif" width="20"> [**GitHub Repositories**](https://github.com/landnthrn?tab=repositories)  
+- <img src="https://media.tenor.com/R2VmWAzC-RAAAAAj/eye-trippy.gif%22" width="20"> [**GitHub Gists**](https://gist.github.com/landnthrn)  
+- ☕ [**Buy Me a Coffee**](https://buymeacoffee.com/landn.thrn/extras)  
+- <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="20"> [**Discord Profile**](https://discord.com/users/831735011588964392)  
+- <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="20"> [**CoaLwiX Website**](https://coalwixpack.com)
 
----
+--- 
 
 ###   <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="50"> My Discord Servers:   
 ## <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/Octapussie%20PFP%20GIF.gif" width="60"> [Octapussie](https://discord.gg/GZUnX6UHyT)  
 ## <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="60"> [CoaLwiX](https://discord.gg/J6jWpru9nS)
 
 ---
-
-### <img src="https://media.tenor.com/R2VmWAzC-RAAAAAj/eye-trippy.gif" width="50"> GitHub Stats  
-
-<div style="display:flex; align-items:center; justify-content:center; gap:30px;">
-
-<div>
-  
-![Landon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=landnthrn&show_icons=true&theme=radical)
 
 </div>
 
