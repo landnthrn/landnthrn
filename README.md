@@ -36,7 +36,6 @@
 - <img src="https://media.tenor.com/R2VmWAzC-RAAAAAj/eye-trippy.gif%22" width="20"> [**GitHub Gists**](https://gist.github.com/landnthrn)  
 - ☕ [**Buy Me a Coffee**](https://buymeacoffee.com/landn.thrn/extras)  
 - <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/TrippyDiscordIconGIF.gif" width="20"> [**Discord Profile**](https://discord.com/users/831735011588964392)  
-- <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/CoaLwiX%20PFP%20GIF.gif" width="20"> [**CoaLwiX Website**](https://coalwixpack.com)
 
 --- 
 
