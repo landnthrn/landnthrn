@@ -51,6 +51,4 @@
 
 </div>
 
-![](https://github-view-counter-1-0-0.vercel.app/api?username=landnthrn&label=false&bgColor=000000&color=aaaaaa&iconColor=aaaaaa)
-
-
+![](https://github-view-counter-1-0-0.vercel.app/api?username=landnthrn&label=false&bgColor=20164C&color=6a5acd&iconColor=6a5acd)
