@@ -50,3 +50,6 @@
 <img src="https://media1.tenor.com/m/wyREFdKi4owAAAAd/planet.gif" width="260" style="border-radius:10px;"/><img src="https://media1.tenor.com/m/whCI7Cv4MFkAAAAd/dead.gif" width="380" style="border-radius:10px;"/>
 
 </div>
+
+![](https://github-view-counter-1-0-0.vercel.app/api?username=landnthrn)
+
