@@ -3,10 +3,12 @@
 ## <img src="https://media.tenor.com/WMlKIY9S5mQAAAAj/aurora-shadow.gif" width="50"> landn.thrn here. 
 <img align='right' src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/Updated%20Rim%20PFP%202.gif" width="180">
 
-<img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="20">Techy nic nacker<img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="20">
+<img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="20"> **Techy Nic Nacker**
 
-### Co-Founder of [MystiConnect](https://mysticonnect.com)  
-### Creator of [CoaLwiX](https://coalwixpack.com)  
+<img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="20">  **Vibe Developer**
+
+<img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="20">  **Co-Founder & Content Creator for** [**MystiConnect**](https://mysticonnect.com)  
+
 
 
 [![Follow Me <3](https://img.shields.io/badge/Follow%20Me%20%3C3-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landnthrn)  
