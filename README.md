@@ -7,9 +7,7 @@
 
 <img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="20">  **Vibe Developer**
 
-<img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="20">  **Co-Founder & Content Creator for** [**MystiConnect**](https://mysticonnect.com)  
-
-
+<img src="https://media.tenor.com/23NitOvEEkMAAAAj/optical-illusion-rotating-head.gif" width="20">  **Content Creator & Early Co-Founder for** [**MystiConnect**](https://mysticonnect.com)  
 
 [![Follow Me <3](https://img.shields.io/badge/Follow%20Me%20%3C3-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landnthrn)  
 [![Repo's](https://img.shields.io/badge/Repo's-311A82?style=for-the-badge&logo=github&logoColor=white)](https://github.com/landnthrn?tab=repositories)  
@@ -22,7 +20,7 @@
 
 ### <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/PurpleMoon.gif" width="50">
 
->Mind lives on a planet always downpouring blue violet rain & thunderstorms.
+>Mind lives on a planet that downpours blue violet rain & thunder.
 
 >A ghost driving a meat-coated skeleton made from stardust, riding a rock hurtling through space. 
 
