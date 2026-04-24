@@ -20,9 +20,9 @@
 
 ### <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/PurpleMoon.gif" width="50">
 
->Mind lives on a planet that downpours blue violet rain & thunder.
+>Mind lives on a planet downpouring blue violet rain & thunder.
 
->A ghost driving a meat-coated skeleton made from stardust, riding a rock hurtling through space. 
+>A ghost driving a meat-coated skeleton made from stardust, riding a rock, hurtling through space. You are no different.    
 
 >Cursed with a chronically perfectionist & conceptual brain.
 
