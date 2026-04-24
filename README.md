@@ -22,7 +22,8 @@
 
 >Mind lives on a planet downpouring blue violet rain & thunder.
 
->A ghost driving a meat-coated skeleton made from stardust, riding a rock, hurtling through space. You are no different.    
+>A ghost driving a meat-coated skeleton made from stardust, riding a rock, hurtling through space.  
+You are no different.    
 
 >Cursed with a chronically perfectionist & conceptual brain.
 
