@@ -46,4 +46,10 @@ You are no different.
 
 </div>
 
+> Every passing second is closer to the last.   
+No grace awaits you, your time is set.   
+What will you do with it?   
+Never stop asking.   
+
+
 ![](https://github-view-counter-1-0-0.vercel.app/api?username=landnthrn&label=false&bgColor=20164C&color=6a5acd&iconColor=6a5acd)
