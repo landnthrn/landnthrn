@@ -21,11 +21,11 @@
 ### <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/refs/heads/main/PurpleMoon.gif" width="50">
 
 >A ghost, driving a meat-coated skeleton, made from stardust, riding a rock, hurtling through space.  
-You are no different.    
+>*You are no different.*   
 
 >Mind lives on a planet downpouring blue violet rain & thunder.
 
->Cursed with a chronically perfectionist & conceptual brain.
+>Cursed with a chronically conceptual & perfectionist brain.
 
 >Just the universe experiencing itself through life, this one is very strange.
 
@@ -45,11 +45,5 @@ You are no different.
 <img src="https://media1.tenor.com/m/wyREFdKi4owAAAAd/planet.gif" width="260" style="border-radius:10px;"/><img src="https://media1.tenor.com/m/whCI7Cv4MFkAAAAd/dead.gif" width="380" style="border-radius:10px;"/>
 
 </div>
-
-> Every passing second is closer to the last.   
-No grace awaits you, your time is set.   
-What will you do with it?   
-Never stop asking.   
-
 
 ![](https://github-view-counter-1-0-0.vercel.app/api?username=landnthrn&label=false&bgColor=20164C&color=6a5acd&iconColor=6a5acd)
