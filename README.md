@@ -28,10 +28,8 @@
 >just the universe experiencing itself through life, this one is very strange.
 
 <p>
-  <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/main/Trippy/Trippy-Looped-Visuals/visual-loop%2042.gif" width="180">
-  <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/main/Trippy/Trippy-Looped-Visuals/visual-loop%2027.gif" width="180">
-  <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/main/Trippy/Trippy-Looped-Visuals/visual-loop%2076.gif" width="180">
-  <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/main/Trippy/Trippy-Looped-Visuals/visual-loop%2001.gif" width="180">
+  <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/main/Trippy/Trippy-Looped-Visuals/visual-loop%2042.gif" width="180">&nbsp;<img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/main/Trippy/Trippy-Looped-Visuals/visual-loop%2027.gif" width="180">
+  <img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/main/Trippy/Trippy-Looped-Visuals/visual-loop%2076.gif" width="180">&nbsp;<img src="https://raw.githubusercontent.com/landnthrnnn/DUMP/main/Trippy/Trippy-Looped-Visuals/visual-loop%2001.gif" width="180">
 </p>
 
 >i can't seem to allow myself to finish a project unless it's suitable for anybody's usecase  
@@ -45,4 +43,4 @@
 <img width="590" alt="img-transparent" src="https://github.com/user-attachments/assets/9f9461f7-2c6a-4291-9fd4-2ddc0e60a777" />
 
 
-![](https://github-view-counter-1-0-0.vercel.app/api?username=landnthrn-landnthrn&label=false&bgColor=20164C&color=6a5acd&iconColor=6a5acd)
+![](https://github-view-counter-1-0-0.vercel.app/api?username=landnthrn&label=false&bgColor=20164C&color=6a5acd&iconColor=6a5acd)
